@@ -1,0 +1,3 @@
+# Python 2.7.10 环境 - Mac
+1.  (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)
+2. library --> import urllib2 , import urlparse , from bs4 import BeautifulSoup (这里下载的是BeautifulSoup 4.6.0) , import re
